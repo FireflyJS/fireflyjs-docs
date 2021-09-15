@@ -1,0 +1,19 @@
+{
+  "name": "@fireflyjs/basic-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^16.9.1"
+  },
+  "dependencies": {
+    "@fireflyjs/core": "0.0.5",
+    "firebase-admin": "^9.11.1"
+  }
+}
